@@ -1,4 +1,4 @@
 # Convoyeur Industriel Modulaire
 
-## sysnopsis
-Ce projet est bla bla bla
+## synopsis
+Ce projet est un projet de Convoyeur Industriel Modulaire qui sélectionne les objets en fonction de leur poid.
