@@ -9,3 +9,8 @@ Voici le lien pour accéder au fichier STL
 ## construction
 
 ![Vue du conveyeur jaune avec caisse de bouteille](images/CONVEYOR-BELTS-SIMUFAB-3DTROOP-2.jpg)
+
+## Product backlog
+
+- [x] Créer le dépôt GitHub
+- [ ] Rédiger la documentation
