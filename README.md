@@ -1,2 +1,4 @@
-# projet-cim-a26
-Convoyeur Industriel Modulaire
+# Convoyeur Industriel Modulaire
+
+## sysnopsis
+Ce projet est bla bla bla
