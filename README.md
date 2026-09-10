@@ -6,3 +6,5 @@ Ce projet est un projet de Convoyeur Industriel Modulaire qui sélectionne les o
 ## description
 
 ## construction
+
+![Vue du conveyeur jaune avec caisse de bouteille](images/CONVEYOR-BELTS-SIMUFAB-3DTROOP-2.jpg)
